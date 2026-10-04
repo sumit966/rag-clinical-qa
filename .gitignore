@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+vectorstore/
+*.log
+.pytest_cache/
+.DS_Store
+.vscode/
+.idea/
+data/clinical_docs/*.pdf
