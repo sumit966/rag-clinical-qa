@@ -535,7 +535,7 @@ Contributions, issues, and feature requests are welcome!
 5. 🎉 Open a Pull Request
 
 ---
-
+<!-- final co-authored marker -->
 ## 👤 Author
 
 <div align="center">
